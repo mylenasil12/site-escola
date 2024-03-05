@@ -26,4 +26,7 @@
 }
 .escola{
     background-image: linear-grandient(#424E61, #4EBFE9);
+color: white;
+display: flex;
+    
 }
