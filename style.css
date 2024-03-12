@@ -22,11 +22,11 @@
     font-size: 20px;
 }
 
-.moda modéstia-imagem{
+.moda modésta-imagem{
     width: 25%;
 }
 
-.moda modéstia{
+.moda modésta{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -35,9 +35,9 @@
     padding: 24px 0;
 }
 
-.moda modéstia-div-conteudo{
+.moda modésta-div-conteudo{
     width: 35%;
 }
-.moda modéstia-titulo{
+.moda modésta-titulo{
     padding: 24px 0;
 }
